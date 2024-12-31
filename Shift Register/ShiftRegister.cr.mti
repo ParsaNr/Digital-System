@@ -1,0 +1,29 @@
+{E:/University/Digital System/Project/ShiftRegister 2/Shift-Reg.v} {1 {vlog -work work -vopt -stats=none {E:/University/Digital System/Project/ShiftRegister 2/Shift-Reg.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module shift_reg
+
+Top level modules:
+	shift_reg
+
+} {} {}} {E:/University/Digital System/Project/Shift Register/Shift.v} {1 {vlog -work work -vopt -stats=none {E:/University/Digital System/Project/Shift Register/Shift.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Shift
+
+Top level modules:
+	Shift
+
+} {} {}} {E:/University/Digital System/Project/Shift Register/TestBenchFinal.v} {1 {vlog -work work -vopt -stats=none {E:/University/Digital System/Project/Shift Register/TestBenchFinal.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {E:/University/Digital System/Project/ShiftRegister 2/Test.v} {1 {vlog -work work -vopt -stats=none {E:/University/Digital System/Project/ShiftRegister 2/Test.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}
